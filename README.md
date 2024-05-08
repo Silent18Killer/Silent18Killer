@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KAUSTABH SHIT</h1>
 <h3 align="center">LEARNING DATA SCIENCE</h3>
 
-<img align="center" alt="coding" width="400" src="[[https://giphy.com/gifs/hack-leak-data-I0e4u216Qhww8eRTVq](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmwwamloa2htYnR4NXV4bzlmZXU0cmFpZDQwNW95ZTVtYWNtYzgzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I0e4u216Qhww8eRTVq/giphy.gif)](https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif)">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/KuJSBQPj1X0AAAAC/you-have-been-hacked-anon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silent18killer&label=Profile%20views&color=0e75b6&style=flat" alt="silent18killer" /> </p>
 
