@@ -29,4 +29,4 @@
 
 <p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Silent18Killer&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silent18killer&" alt="silent18killer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silent18killer&theme=dark&locale=en&hide_border=false" alt="silent18killer" /></p>
