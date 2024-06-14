@@ -60,13 +60,11 @@
 <div>
 <h2 align="center">📊 GitHub Stats 📊</h2>  
 <p>
-    <img align="right" height="auto" width={100} src="https://github-readme-streak-stats.herokuapp.com/?user=Silent18Killer&theme=blue_navy&hide_border=false" />
-    <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Silent18Killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-radme-generator" />
+    <img align="left" height="auto" width={100} src="https://github-readme-streak-stats.herokuapp.com/?user=Silent18Killer&theme=blue_navy&hide_border=false" />
+    <img align="center" height="auto" width={700} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent18Killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img align="right" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Silent18Killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-radme-generator" />
 </p>
-  <br clear="both">
-<p align="center"> 
-  <img align="center" height="auto" width={700} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent18Killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> 
-</p>
+
 </div>
 
 
