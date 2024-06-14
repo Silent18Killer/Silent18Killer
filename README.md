@@ -61,7 +61,7 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>  
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent18killer&theme=blue_navy&hide_border=false" alt="silent18killer" /></p>
-  <p align="center"><img align="center" width=500 height=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=silent18killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="silent18killer" /></p>
+  <p align="center"><img align="center" width=400 height=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=silent18killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="silent18killer" /></p>
   <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silent18killer&&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="silent18killer" /></p>
   
 
