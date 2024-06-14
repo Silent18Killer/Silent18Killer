@@ -11,7 +11,10 @@
 
 - 📫 How to reach me **kaustabh018@gmail.com**
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Silent18Killer&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4" /> </p>
+<div>
+  <h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
+  <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Silent18Killer&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4" /> </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
