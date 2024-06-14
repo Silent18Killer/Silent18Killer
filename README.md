@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kaustabh018@gmail.com**
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Silent18Killer&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Silent18Killer&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +37,7 @@
   
   <h3 align="left">Tools:</h3>
   <p align="left">
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg" alt="pandas" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
@@ -46,8 +47,11 @@
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent18Killer&theme=dark&hide_border=false" alt="profile-radme-generator" /> <p>
+<p>
+  <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Silent18Killer&theme=blue_navy&hide_border=false" />
+  <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Silent18Killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-radme-generator" />
+  <img align="center" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent18Killer&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <p>
 
-<p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Silent18Killer&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silent18killer&theme=dark&locale=en&hide_border=false" alt="silent18killer" /></p>
+
+
