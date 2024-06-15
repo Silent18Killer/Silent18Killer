@@ -25,6 +25,7 @@
     <a href="https://www.hackerrank.com/18_kaustabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="18_kaustabh" height="30" width="40" /></a>
     <a href="https://twitter.com/koustav_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koustav_5" height="30" width="40" /></a>
     <a href="https://instagram.com/_.k.o.s.t.a.v._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.k.o.s.t.a.v._" height="30" width="40" /></a>
+    <a href="https://discord.gg/https://discord.gg/uHcFRphD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uHcFRphD" height="30" width="40" /></a>
 </p>
 </div>
 
