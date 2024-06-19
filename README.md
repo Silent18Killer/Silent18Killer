@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kaustabh Shit</h1>
+<div>
+    <h1 align="center"Hi 👋, I'm Kaustabh Shit</h1>
+    <p align="center">
+    <img src="https://github.com/QwertyFusion/QwertyFusion/blob/main/images/banner-image.png" alt="Banner Image of Rishi's Profile"/>
+    </p>
+  </div>
+
 <h3 align="center">Learning Data Science</h3>
 
 <img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUxdGxndnd5ZTk2ZndpdmppNTFzd3ltMnYwbGpncDJ0OGlvdzlwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif">
