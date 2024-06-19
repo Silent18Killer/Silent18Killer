@@ -1,15 +1,16 @@
+<body>
+
 <div>
-    <h1 align="center"Hi 👋, I'm Kaustabh Shit</h1>
+    <h1 align="center">Hi 👋, I'm Kaustabh Shit</h1>
     <p align="center">
     <img src="Data Analyst.jpg" alt="Banner Image of Kaustabh's Profile"/>
     </p>
   </div>
 
+<h2 align="center">🌝 About Me 🌝</h2>
 <h3 align="center">Learning Data Science</h3>
 
-<img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUxdGxndnd5ZTk2ZndpdmppNTFzd3ltMnYwbGpncDJ0OGlvdzlwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silent18killer&label=Profile%20views&color=0e75b6&style=flat" alt="silent18killer" /> </p>
+<img align="right" alt="coding" width="400" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUxdGxndnd5ZTk2ZndpdmppNTFzd3ltMnYwbGpncDJ0OGlvdzlwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif">
 
 - 🌱 I’m currently learning **DATA SCIENCE**
 
@@ -17,6 +18,9 @@
 
 - 📫 How to reach me **kaustabh018@gmail.com**
 
+<br>
+<br>
+<br>
 <div>
   <h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
   <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Silent18Killer&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4" /> </p>
@@ -86,6 +90,8 @@
 </p>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silent18killer&label=Profile%20views&color=0e75b6&style=flat" alt="silent18killer" /> </p>
 
+</body>
 
 
