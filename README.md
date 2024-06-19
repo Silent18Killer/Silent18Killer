@@ -1,7 +1,7 @@
 <div>
     <h1 align="center"Hi 👋, I'm Kaustabh Shit</h1>
     <p align="center">
-    <img src="https://github.com/QwertyFusion/QwertyFusion/blob/main/images/banner-image.png" alt="Banner Image of Rishi's Profile"/>
+    <img src="Data Analyst.jpg" alt="Banner Image of Kaustabh's Profile"/>
     </p>
   </div>
 
