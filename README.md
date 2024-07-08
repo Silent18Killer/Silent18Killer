@@ -3,7 +3,7 @@
 <div>
     <h1 align="center">Hi 👋, I'm Kaustabh Shit</h1>
     <p align="center">
-    <img src="Data Analyst.jpg" alt="Banner Image of Kaustabh's Profile"/>
+    <img src="Linkedin Cover.png" alt="Banner Image of Kaustabh's Profile"/>
     </p>
   </div>
 
