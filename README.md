@@ -18,6 +18,10 @@
 
 - 📫 How to reach me **kaustabh018@gmail.com**
 
+- ⚡Portfolio: https://silent18killer.github.io
+
+- 📍West Bengal, India
+
 <br>
 <br>
 <br>
