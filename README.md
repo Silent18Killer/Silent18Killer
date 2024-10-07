@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 📫 How to reach me **kaustabh018@gmail.com**
+- 📫 How to reach me **kaustabhshit18@gmail.com**
 
 - ⚡Portfolio: https://silent18killer.github.io
 
